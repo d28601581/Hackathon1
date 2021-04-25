@@ -1,0 +1,16 @@
+.calen{
+    text-align: center;
+    padding: 50px;
+}
+
+
+.dash{
+    background-size: cover;
+    background-color: bisque;
+    height: 100%;
+}
+
+h1, h4, h5{
+    text-align: center;
+
+}
